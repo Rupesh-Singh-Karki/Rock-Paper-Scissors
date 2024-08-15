@@ -10,9 +10,6 @@ This is a simple Rock-Paper-Scissors game built using HTML, CSS, and JavaScript.
 - [Installation](#installation)
 - [Project Structure](#project-structure)
 - [Learning Source](#learning-source)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 
 The Rock-Paper-Scissors game is a fun, interactive project that demonstrates how to handle user interactions, manipulate the DOM, and work with basic game logic in JavaScript. This project is perfect for beginners who are getting started with web development.
